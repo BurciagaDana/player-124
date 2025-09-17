@@ -15,7 +15,7 @@
 ### Foto
 
 watajai con la foto 💜
-![fotoooooo](ruta/a/la/imagen.jpg)
+![fotoooooo](foto.jpg)
 
 
 
