@@ -8,16 +8,16 @@
 
 - **Nombre completo**: Burciaga Renteria Dana 
 - **Edad**: 17
+- **especialidad**: programacion
+- **grado y grupo**:5-D
 
 
 ### Foto
 
-¡Aquí hay una foto mía!  
-![Mi Foto](ruta/a/mi-foto.jpg)
+watajai con la foto 💜
+![fotoooooo](ruta/a/la/imagen.jpg)
 
 
 
-## Proyecto
 
-Este es un proyecto que estoy trabajando donde aplico mis conocimientos de desarrollo web. Aquí puedes ver el progreso y cómo voy mejorando en mis habilidades.
 
